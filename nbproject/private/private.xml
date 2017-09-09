@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>web/DailySellReportOrderWise.jsp</url>
+            <bookmark id="2">
+                <name/>
+                <line>10</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>web/login.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>10</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/src/java/Dao/ReportDao.java</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/web/TableDashboard.jsp</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/web/EditSelectedBill.jsp</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/src/java/DaoImpl/ReportDaoImpl.java</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/src/java/Services/TableService.java</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/src/java/Controller/OrderController.java</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/web/js/GridViewController.js</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/web/SelectOrderDate.jsp</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/web/SQL/dbchanges_jan2017.sql</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/src/java/DaoImpl/OrderDaoImpl.java</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/web/js/GridController.js</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/src/java/Dao/OrderDao.java</file>
+            <file>file:/home/vishwas/Desktop/Gworkplace/smartHotel_040417/src/java/DBConnection/DBPool.java</file>
+        </group>
+    </open-files>
+</project-private>
